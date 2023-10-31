@@ -1,0 +1,233 @@
+//
+[
+    {
+        "Name": "攻击",
+        "id": "1",
+        "type": "1",
+        "targets": "1",
+        "times": "1",
+        "extra": "1",
+        "basic": "100",
+        "add": "0"
+    },
+    {
+        "Name": "火球术",
+        "id": "2",
+        "type": "2",
+        "targets": "1",
+        "times": "1",
+        "extra": "8",
+        "basic": "100",
+        "add": "12"
+    },
+    {
+        "Name": "基本剑术",
+        "id": "3",
+        "type": "1",
+        "targets": "1",
+        "times": "1",
+        "extra": "8",
+        "basic": "100",
+        "add": "10"
+    },
+    {
+        "Name": "精神力战法",
+        "id": "4",
+        "type": "3",
+        "targets": "1",
+        "times": "1",
+        "extra": "8",
+        "basic": "100",
+        "add": "10"
+    },
+    {
+        "Name": "大火球",
+        "id": "5",
+        "type": "2",
+        "targets": "1",
+        "times": "1",
+        "extra": "10",
+        "basic": "130",
+        "add": "16"
+    },
+    {
+        "Name": "攻杀剑术",
+        "id": "6",
+        "type": "1",
+        "targets": "1",
+        "times": "1",
+        "extra": "15",
+        "basic": "115",
+        "add": "15"
+    },
+    {
+        "Name": "雷电术",
+        "id": "7",
+        "type": "2",
+        "targets": "1",
+        "times": "1",
+        "extra": "17",
+        "basic": "124",
+        "add": "18"
+    },
+    {
+        "Name": "疾光电影",
+        "id": "8",
+        "type": "2",
+        "targets": "2",
+        "times": "1",
+        "extra": "15",
+        "basic": "75",
+        "add": "13"
+    },
+    {
+        "Name": "灵魂火符",
+        "id": "9",
+        "type": "3",
+        "targets": "1",
+        "times": "1",
+        "extra": "15",
+        "basic": "135",
+        "add": "17"
+    },
+    {
+        "Name": "刺杀剑术",
+        "id": "10",
+        "type": "1",
+        "targets": "2",
+        "times": "1",
+        "extra": "35",
+        "basic": "100",
+        "add": "13"
+    },
+    {
+        "Name": "爆裂火焰",
+        "id": "11",
+        "type": "2",
+        "targets": "2",
+        "times": "1",
+        "extra": "14",
+        "basic": "75",
+        "add": "12"
+    },
+    {
+        "Name": "地狱雷光",
+        "id": "12",
+        "type": "2",
+        "targets": "3",
+        "times": "1",
+        "extra": "35",
+        "basic": "82",
+        "add": "20"
+    },
+    {
+        "Name": "半月弯刀",
+        "id": "13",
+        "type": "1",
+        "targets": "3",
+        "times": "1",
+        "extra": "20",
+        "basic": "70",
+        "add": "12"
+    },
+    {
+        "Name": "烈火剑法",
+        "id": "14",
+        "type": "1",
+        "targets": "1",
+        "times": "1",
+        "extra": "35",
+        "basic": "240",
+        "add": "40"
+    },
+    {
+        "Name": "冰咆哮",
+        "id": "15",
+        "type": "2",
+        "targets": "3",
+        "times": "1",
+        "extra": "30",
+        "basic": "85",
+        "add": "18"
+    },
+    {
+        "Name": "逐日剑法",
+        "id": "16",
+        "type": "1",
+        "targets": "2",
+        "times": "2",
+        "extra": "40",
+        "basic": "115",
+        "add": "22"
+    },
+    {
+        "Name": "开天斩",
+        "id": "17",
+        "type": "1",
+        "targets": "1",
+        "times": "1",
+        "extra": "45",
+        "basic": "500",
+        "add": "60"
+    },
+    {
+        "Name": "圆月莲华",
+        "id": "18",
+        "type": "1",
+        "targets": "4",
+        "times": "1",
+        "extra": "50",
+        "basic": "70",
+        "add": "18"
+    },
+    {
+        "Name": "幽冥火咒",
+        "id": "19",
+        "type": "3",
+        "targets": "1",
+        "times": "2",
+        "extra": "50",
+        "basic": "120",
+        "add": "25"
+    },
+    {
+        "Name": "狂雷闪",
+        "id": "20",
+        "type": "2",
+        "targets": "4",
+        "times": "1",
+        "extra": "50",
+        "basic": "120",
+        "add": "25"
+    },
+    {
+        "Name": "怒炎",
+        "id": "21",
+        "type": "2",
+        "targets": "3",
+        "times": "2",
+        "extra": "40",
+        "basic": "70",
+        "add": "20"
+    },
+    {
+        "Name": "撕咬",
+        "id": "101",
+        "type": "1",
+        "targets": "1",
+        "times": "1",
+        "extra": "1",
+        "basic": "100",
+        "add": "0"
+    },
+    {
+        "Name": "魔力球",
+        "id": "102",
+        "type": "2",
+        "targets": "1",
+        "times": "1",
+        "extra": "1",
+        "basic": "100",
+        "add": "0"
+    }
+]
